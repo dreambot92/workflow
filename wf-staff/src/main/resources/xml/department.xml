@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <Department id="1" organization_id="1">
+        <name>Отдел 1</name>
+        <short_name>О1</short_name>
+        <head_id>1</head_id>
+        <phones>
+            <phone>89551954577</phone>
+            <phone>89919187752</phone>
+        </phones>
+    </Department>
+    <Department id="2" organization_id="1">
+        <name>Отдел 1</name>
+        <short_name>О1</short_name>
+        <head_id>1</head_id>
+        <phones>
+            <phone>89551954577</phone>
+            <phone>89919187752</phone>
+        </phones>
+    </Department>
+</data>

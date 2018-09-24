@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <Person id="1" department_id="1">
+        <surname>Фамилия1</surname>
+        <first_name>Имя1</first_name>
+        <patronymic>Отчество1</patronymic>
+        <post>Специалист1</post>
+    </Person>
+    <Person id="2" department_id="2">
+        <surname>Фамилия2</surname>
+        <first_name>Имя2</first_name>
+        <patronymic>Отчество2</patronymic>
+        <post>Специалист2</post>
+    </Person>
+    <Person id="3" department_id="2">
+        <surname>Фамилия3</surname>
+        <first_name>Имя3</first_name>
+        <patronymic>Отчество3</patronymic>
+        <post>Специалист3</post>
+    </Person>
+    <Person id="4" department_id="2">
+        <surname>Фамилия4</surname>
+        <first_name>Имя4</first_name>
+        <patronymic>Отчество4</patronymic>
+        <post>Специалист4</post>
+    </Person>
+    <Person id="5" department_id="2">
+        <surname>Фамилия5</surname>
+        <first_name>Имя5</first_name>
+        <patronymic>Отчество5</patronymic>
+        <post>Специалист5</post>
+    </Person>
+    <Person id="6" department_id="2">
+        <surname>Фамилия6</surname>
+        <first_name>Имя6</first_name>
+        <patronymic>Отчество6</patronymic>
+        <post>Специалист6</post>
+    </Person>
+    <Person id="7" department_id="2">
+        <surname>Фамилия7</surname>
+        <first_name>Имя7</first_name>
+        <patronymic>Отчество7</patronymic>
+        <post>Специалист7</post>
+    </Person>
+</data>

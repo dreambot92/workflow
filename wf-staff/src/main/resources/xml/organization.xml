@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <Organization id="1">
+        <name>Организация 1</name>
+        <short_name>О1</short_name>
+        <head_id>1</head_id>
+        <phones>
+            <phone>8191987574</phone>
+            <phone>5454321545</phone>
+        </phones>
+    </Organization>
+    <Organization id="2">
+        <name>Организация 2</name>
+        <short_name>О2</short_name>
+        <head_id>2</head_id>
+        <phones>
+            <phone>8191987574</phone>
+            <phone>5454321545</phone>
+        </phones>
+    </Organization>
+</data>

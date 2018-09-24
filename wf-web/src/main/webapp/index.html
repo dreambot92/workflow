@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Документооборот</title>
+    <link rel="stylesheet" href="css/style.css" media="screen">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/dojo/1.10.4/dijit/themes/claro/claro.css" media="screen">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/dojo/1.10.4/dojox/grid/resources/claroGrid.css" media="screen">
+</head>
+
+<body class="claro">
+<div id="appLayout"></div>
+<script>
+    var dojoConfig = (function(){
+        var base = location.href.split("/");
+        base.pop();
+        base = base.join("/");
+        return {
+            async: true,
+            isDebug: true,
+            packages: [{
+                name: "script",
+                location: base + "/script"
+            }]
+        };
+    })();
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/dojo/1.10.4/dojo/dojo.js"></script>
+<script src="script/main.js"></script>
+</body>
+</html>

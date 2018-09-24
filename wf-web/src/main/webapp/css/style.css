@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.photo {
+    position: absolute;
+    top: 10%;
+    right: 2%;
+}
+
+.photo img {
+    width: 300px;
+}
+
+.content {
+    position: absolute;
+    width: 50%;
+    height: 40%;
+    top: 10%;
+    left: 5%;
+
+    font-size: 26px;
+    line-height: 1.4;
+}
+
+.content span {
+    text-decoration: underline;
+}
